@@ -2,7 +2,7 @@
 
 Bu proje, Laravel 11, Livewire ve Laravel Reverb kullanılarak geliştirilmiştir. Aşağıdaki adımları takip ederek projeyi kurabilir ve çalıştırabilirsiniz.
 
-##Tüm Sistemde Kayıtlı Olan Kullanıcı ve Adminler şifresi : 12345678
+# Tüm Sistemde Kayıtlı Olan Kullanıcı ve Adminler şifresi : 12345678
 
 ## Gereksinimler
 
