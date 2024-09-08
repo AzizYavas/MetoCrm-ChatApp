@@ -1,4 +1,4 @@
-# Proje Adı
+# MetoCrm - ChatApp
 
 Bu proje, Laravel 11, Livewire ve Laravel Reverb kullanılarak geliştirilmiştir. Aşağıdaki adımları takip ederek projeyi kurabilir ve çalıştırabilirsiniz.
 
